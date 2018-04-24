@@ -2,7 +2,7 @@
 
 This repository contains the code for the stacked network framework for image parsing introduced in the following paper
 
-[Progressive refinement: a method of coarse-to-fine image parsing using stacked network](http://arxiv.org/abs/x.x) (ICME 2018)
+[Progressive refinement: a method of coarse-to-fine image parsing using stacked network](https://arxiv.org/abs/1804.08256) (ICME 2018)
 
 ### Citation
 If you find this work is useful in your research, please consider citing:
